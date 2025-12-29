@@ -1,0 +1,12 @@
+name: tbi
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip:
+    - numpy
+    - pandas
+    - matplotlib
+    - scikit-learn
+    - jupyterlab
+    - seaborn
